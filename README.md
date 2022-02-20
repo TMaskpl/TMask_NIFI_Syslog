@@ -57,7 +57,7 @@ Ale nie potrzebujemy tych wszystkich danych wystarczy nam to
 ![QueryRecord](https://user-images.githubusercontent.com/75216446/154860721-518fcbec-999f-442b-9536-b61d082b8219.png)
 
 
-plus timestamp_utc
+
 
 ``
 {
@@ -69,7 +69,11 @@ plus timestamp_utc
 }
 ``
 
-Następnie ładujemy niezbęde dane do wybranej bazy w celu dalszej analizy
+Następnie ładujemy tylko kluczowe dane do wybranej bazy w celu dalszej analizy.
+
+To prosty przykład który pokazyje jak każdy rodzaj danych możemy przekształcić i przesłać w konkretne miejsce.
+
+
 
 ![CheckDB](https://user-images.githubusercontent.com/75216446/154860853-1dbbf533-f368-4154-90e7-64fc44f491ff.png)
 
