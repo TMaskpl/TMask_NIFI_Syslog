@@ -82,4 +82,4 @@ Następnie ładujemy tylko kluczowe dane do wybranej bazy w celu dalszej analizy
 
 
 
-To prosty przykład który pokazyje jak każdy rodzaj danych możemy przekształcić i przesłać w konkretne miejsce.
+To prosty przykład który pokazuje jak każdy rodzaj danych możemy przekształcić i przesłać w konkretne miejsce.
