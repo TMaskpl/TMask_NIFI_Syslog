@@ -71,10 +71,15 @@ Ale nie potrzebujemy tych wszystkich danych wystarczy nam to
 
 Następnie ładujemy tylko kluczowe dane do wybranej bazy w celu dalszej analizy.
 
-To prosty przykład który pokazyje jak każdy rodzaj danych możemy przekształcić i przesłać w konkretne miejsce.
+
 
 
 
 ![CheckDB](https://user-images.githubusercontent.com/75216446/154860853-1dbbf533-f368-4154-90e7-64fc44f491ff.png)
 
 
+-------------------
+
+
+
+To prosty przykład który pokazyje jak każdy rodzaj danych możemy przekształcić i przesłać w konkretne miejsce.
