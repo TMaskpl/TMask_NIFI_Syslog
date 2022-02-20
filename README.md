@@ -24,7 +24,7 @@ Przekierujmy logi z Mikrotik -> Firewall
 
 Na wejście dostajemy coś takiego np:
 
-firewall,info _influxdb_ forward: in:NAS_BR out:ipip-tunnel1, src-mac 3c:52:82:00:00:00, proto UDP, 10.2.2.236:38267->192.168.0.17:8089, len 1396
+firewall,info _influxdb_ forward: in:BR out:ipip-tunnel1, src-mac 3c:52:82:00:00:00, proto UDP, 10.2.2.236:38267->192.168.0.17:8089, len 1396
 
 Następnie po przepuszczeniu przez ExtractGrok
 
