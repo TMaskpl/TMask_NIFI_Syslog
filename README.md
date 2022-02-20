@@ -58,7 +58,6 @@ plus timestamp_utc
   "dst_port" : "8089",
   "timestamp_utc" : 1645385664218
 }
-
 ``
 
 Następnie ładujemy niezbęde dane do wybranej bazy w celu dalszej analizy
