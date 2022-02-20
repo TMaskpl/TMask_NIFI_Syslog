@@ -42,4 +42,27 @@ otrzymujemy JSON
 }
 ``
 
+Ale nie potrzebujemy tych wszystkich danych wystarczy nam to
+
+
+![QueryRecord](https://user-images.githubusercontent.com/75216446/154860721-518fcbec-999f-442b-9536-b61d082b8219.png)
+
+
+plus timestamp_utc
+
+``
+{
+  "src_ip" : "10.2.2.236",
+  "src_port" : "38267",
+  "dst_ip" : "192.168.0.17",
+  "dst_port" : "8089",
+  "timestamp_utc" : 1645385664218
+}
+
+``
+
+Następnie ładujemy niezbęde dane do wybranej bazy w celu dalszej analizy
+
+![CheckDB](https://user-images.githubusercontent.com/75216446/154860853-1dbbf533-f368-4154-90e7-64fc44f491ff.png)
+
 
