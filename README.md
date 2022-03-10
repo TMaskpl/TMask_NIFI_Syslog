@@ -1,4 +1,4 @@
-# TMask_NIFI_Syslog
+# TMask_NIFI_Syslog - Open Source
 
 
 Często zdarza się sytuacja że przesyłają do nas mnóstwo danych jednak my potrzebujemy tylko część z nich. 
